@@ -1,0 +1,1098 @@
+www.ssoar.info
+Politisches Wissen von Schüler/-innen mit und
+ohne Migrationshintergrund (POWIS-Studie)
+Weißeno, Georg; Goll, Thomas; Richter, Dagmar; Eck, Valentin
+Veröffentlichungsversion / Published Version
+Sammelwerksbeitrag / collection article
+Empfohlene Zitierung / Suggested Citation:
+Weißeno, G., Goll, T., Richter, D., & Eck, V. (2010). Politisches Wissen von Schüler/-innen mit und ohne
+Migrationshintergrund (POWIS-Studie). In G. Weißeno (Hrsg.), Bürgerrolle heute: Migrationshintergrund und
+politisches Lernen  (S. 21-48). Bonn: Bundeszentrale für politische Bildung. https://nbn-resolving.org/urn:nbn:de:0168-
+ssoar-53461-8
+Nutzungsbedingungen:
+Dieser Text wird unter einer CC BY-ND Lizenz (Namensnennung-
+Keine Bearbeitung) zur Verfügung gestellt. Nähere Auskünfte zu
+den CC-Lizenzen finden Sie hier:
+https://creativecommons.org/licenses/by-nd/3.0/deed.deTerms of use:
+This document is made available under a CC BY-ND Licence
+(Attribution-NoDerivatives). For more Information see:
+https://creativecommons.org/licenses/by-nd/3.0
+
+Georg Weißeno (Hrsg.)
+Bürgerrolle heute 
+ Migrationshintergrund und  politisches Lernen
+Bonn 2010
+©  Bundeszentrale für politische Bildung
+ Adenauerallee 86, 53113 Bonn
+Redaktion: Franz Kiefer (verantw.), Georg WeißenoEine Buchhandelsausgabe besorgt der Verlag Barbara Budrich, Opladen.
+Diese Veröffentlichung stellt keine Meinungsäußerung der Bundeszentrale für poli -
+tische Bildung dar. Für die inhaltlichen Aussagen tragen die Autor/-innen die Ver-
+antwortung.
+Hinweis: Die Inhalte der im Text und Anhang zitierten Internet-Links unterliegen 
+der Verantwortung der jeweiligen Anbieter/-innen. Für eventuelle Schäden und For-
+derungen können Herausgeberin und Autor/-innen keine Haftung übernehmen.
+Umschlaggestaltung: M. Rechl, Kassel
+Umschlagfoto: Pressestelle des Rhein-Sieg-Kreises, Siegburg
+Satzherstellung: Naumilkat, Düsseldorf 
+Druck: CPI books GmbH, Leck
+ISBN 978-3-8389-0050-6
+www.bpb.deZum Titelfoto:
+Zum 40. Geburtstag des Rhein-Sieg-Kreises am 1. Juli 2009 wurde in einem feier-lichen Rahmen 40 Personen aus 40 Nationen im Wege der Einbürgerung im Sieg -
+burger Kreishaus die deutsche Staatsangehörigkeit verliehen. Die Urkunden  wurden 
+durch Landrat Frithjof Kühn ausgehändigt.
+Das Bekenntnis der Neubürgerinnen und Neubürger ( »Ich erkläre feierlich, dass 
+ich das Grundgesetz und die Gesetze der Bundesrepublik Deutschland achten und  alles unterlassen werde, was ihr schaden könnte. «) wurde zum Schluss der Einbür-
+gerungsfeier mit der Nationalhymne bekräftigt.
+21Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck
+Politisches Wissen zur Demokratie von 
+Schüler/-innen mit und ohne Migrations -
+hintergrund (POWIS-Studie)
+1. Theoretischer Bezugsrahmen und Stand der Forschung
+»Die Bevölkerung mit Migrationshintergrund unterscheidet sich deut -
+lich von der ohne Migrationshintergrund« (Datenreport, 2008, S. 18). Der 
+Datenreport hat für diese Aussage u. a. sozioökonomische Merkmale so -
+wie Risiken der fehlenden schulischen Qualifikation betrachtet. Schul -
+leistungsstudien wie PISA 2003 und 2006 zeigen für Deutschland hohe 
+soziale Disparitäten von Indikatoren der schulischen Bildung, zu denen 
+auch der Migrationshintergrund der Schüler/-innen beiträgt (Esser, 2006;  Walter, 2008). Die Schulleistungsstudien betrachten jedoch primär ma -
+thematische und naturwissenschaftliche Kompetenzen. Die Datenlage zur 
+politischen Bildung von Migrant/-innen ist unzureichend (Reiter & Wolf, 2006, S. 6). Empirisch belastbare Vergleiche von politischen Kompeten -
+zen zwischen Schüler/-innen mit und ohne Migrationshintergrund feh -
+len bislang. Da fast ein Drittel aller Neugeborenen im Jahr 2006 einen Migra  tionshintergrund hat (Datenreport 2008, S. 18), ist die Frage nach 
+möglichen Unterschieden jedoch für didaktische Reflexionen zum Poli -
+tikunterricht der nächsten Jahre relevant.
+Fachwissen trägt als eine Kompetenzdimension zum Erwerb einer 
+ Civic Literacy bei (Weißeno, Eck & Götzmann, 2008), die wiederum eine 
+Voraus  setzung für ein aktives Leben in der Gesellschaft und damit für 
+eine Integration darstellt. Unterscheidet sich das politische Wissen von 
+Schüler/-innen mit und ohne Migrationshintergrund? Diese Frage lässt 
+sich zurzeit nicht beantworten. Während es zahlreiche Studien zu poli -
+tischen Einstellungen von Jugendlichen (z. B. Gille & Krüger, 2002; Ab -
+old & Juhász, 2006), zum Wahlverhalten (Schoen, 2006) oder zum poli -
+tischen Interesse (Diehl & Urban, 1999; Kroh, 2006; Westle, 2006) gibt, 
+sind Studien zum politischen Wissen seltener. Hier sind insbesondere die internationalen  Civic Education Studien zu nennen, die das politische Wis -
+
+22
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+sen von 14-Jährigen untersuchen. Die bislang vorletzte Studie Ende der 
+1990er Jahre, an der sich auch Deutschland beteiligte, stellt für Deutsch -
+land durchschnittliche Leistungen fest (Torney-Purta u.  a., 2001, S.  62; 
+Oesterreich, 2002). In dieser Studie wird erstmals der Versuch unternom -
+men, nicht Faktenwissen abzufragen, sondern konzeptuelles Wissen, also 
+»ein adäquates Begreifen politischer Zusammenhänge« (Oesterreich, 2002, 
+S. 34). Der Schwerpunkt liegt auf Fragen zur Demokratie. Stärken zei -
+gen die 14-Jährigen in den Bereichen Grundrechte, Wahlen und Wahl -
+werbung; Schwächen in den Kenntnissen zur Interessenvertretung (ebd., S. 53). Es wird differenziert nach Geschlecht sowie neuen und  alten Bun -
+desländern analysiert, nicht aber bezogen auf den Migrationshintergrund. 
+Eine methodisch wenig aufwändige Studie zum Wissen prüft eher Fak -
+tenwissen (Rothe, 1993) und als weitere Faktoren nur Geschlecht und 
+Alter. So gibt es zum einen politikwissenschaftliche Studien, die jedoch 
+wenig valide Ergebnisse liefern (Glaston, 2001). Auch Westle erhebt Fak -
+tenwissen lediglich als einen Bereich neben weiteren mit nur 13 Items 
+(Westle, 2006). Zum anderen existiert insbesondere in den USA eine lange   Tradition des Testens  (Delli Carpini & Keeter, 1996). Das Natio ­
+nal  Assessment of Educational  Progress (NAEP) oder das Council of Chief  State 
+School  Officers  (CCSSO) testen teilweise regelmäßig seit den 1970er Jah -
+ren die Kompetenzen von Schüler/  -innen verschiedener Jahrgangsstufen. 
+Das Wissen wird differenziert in Skalen zu Democracy and Government Struc ­
+ture und Citizenship . Doch finden sich auch hier vorwiegend Fragen nach 
+einzelnen Fakten (siehe dazu: www.ecs.org/qna). Des Weiteren existieren 
+ältere  große  Studien zum politischen Wissen von ausgewählten Gruppen 
+von Schüler/   -innen, so beispielsweise zu Primarschüler/-innen (Easton & 
+Dennis, 1969;  Connell, 1971; Moore, Lare & Wagner, 1985) sowie neuere 
+kleine Studien für diese Lerngruppe (Berti & Andriolo, 2001; Götzmann, 
+2008). Vereinzelt finden sich aufwändigere Studien, die im Zusammen -
+hang mit Interventionen im Unterricht Wissenstests durchführen (Manzel,  
+2007; Eck &Weißeno, 2009) oder ältere Pilotstudien zur Konzeption von Testaufgaben für konzeptuelles Wissen (Massing & Schattschneider, 2005; Weißeno, 2005). In Deutschland liegen mehrfach normierte Testhefte in 
+der IEA-Studie (Oesterreich, 2002) und mit dem Einbürgerungstest (Insti -
+tut zur Qualitätsentwicklung im Bildungswesen, IQB, 2009) vor sowie ein 
+einfach normiertes zur Europäischen Union in der TEESAEC-  Studie (Eck 
+& Weisseno, 2009). Sie alle bieten hilfreiche Anknüpfungspunkte für die 
+Konstruktion von politischen Wissenstests. Nur die Begleitforschung zum Einbürgerungstest (vgl. den Beitrag von Wilhelm u. a. in diesem Band) 
+und die TEESAEC-Studie haben bisher den Migra  tionshintergrund er -
+
+23
+Politisches Wissen zur Demokratie von Schüler/-innen 
+hoben. Obwohl immer wieder auf die Bedeutung von Schülerkonzep -
+ten für Unterricht und fachdidaktische Forschungen hingewiesen wurde 
+(z. B. Grammes & Wicke, 1991), gilt generell auch international noch im -
+mer: »One particular area of research where civic education lags far behind 
+science  and math, for example, is in developing a body of work about stu -
+dents’  prior knowledge of ideas and concepts important to citizenship. […] 
+To be effective, civic education programs have to be de  veloped with some 
+attention to the conceptions students  already have of important civic ideas« 
+(Chareka & Sears, 2006, S. 523).
+Nur ein aktueller valider Wissenstest kann als Vergleichsmaßstab für 
+verschiedene Lerngruppen und Fragestellungen herangezogen werden. 
+Damit der hier vorzustellende Test Rückschlüsse auf die Kompetenz -
+dimension Fachwissen ermöglicht, muss er konzeptuelles Wissen erhe -
+ben. Konzeptuelles Wissen ist von konkreten Phänomenen abstrahiertes Wissen und vielfach anwendbar, so dass unterrichtliche Vermittlungspro -
+zesse dieses Wissen sowohl für die Lernausgangslage (Vorwissen) als auch 
+für den Lernerfolg im Blick haben. Im Fokus stehen hier also die erwor -
+benen Begriffe (Konzepte) und ihre Vernetzungen (konzeptuelles Wissen) 
+ (Byrnes & Wasik, 1991, S. 777; Rittle-Johnson, Siegler & Alibali, 2001). 
+Als weitere  bietet sich als Testform auch die Methode des Mappings an. Im 
+Bereich des politischen Lernens gibt es jedoch auch hierzu bislang nur Pi -
+lotstudien zu einzelnen Konzepten (Richter, 2009). Daher wird hier zur 
+Erhebung des konzeptuellen Wissens die Methode der Mehrfachwahl-Antworten mit genügend vielen Items für statistische Analysen gewählt. 
+Inhaltlich orientiert sich die Fragenformulierung für den Wissenstest am 
+theoretisch hergeleiteten Kompetenzmodell von Weißeno, Detjen, Juchler,  
+Massing & Richter (2010), das die Basis- und Fachkonzepte für den Poli -
+tikunterricht als Maximal- und Mindeststandards beschreibt.
+2.  Bedingungen des politischen Wissens von Schüler/-innen
+Zur Testkonstruktion werden Einflussfaktoren (Prädiktoren und Kriteri -
+umsvariablen) auf das Wissen theoretisch hergeleitet. Ziel ist es zu unter -
+suchen, ob es Faktoren gibt, mit denen sich vorhersagen lässt, in welchem Umfang die Schüler/-innen konzeptuelles Wissen besitzen. Hinweise fin -
+den sich verstreut in der oben genannten Literatur. So zeigen internatio -
+nale Studien zum politischen Wissen Zusammenhänge zwischen Wissen und Geschlecht, sozioökonomischen Milieu und Herkunft (Delli  Carpini 
+& Keeter, 1996). Aber auch Interesse, Erwartungen u. v. m. beeinflussen 
+
+24
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+die subjektiven Voraussetzungen für erfolgreiches Lernen (Stern, 2004). Je -
+doch bedürfen letztere umfangreiche eigene Erhebungen, so dass sich hier 
+auf die Faktoren Geschlecht, kulturelles Kapital, Herkunft und gesproche -
+ne Sprache zu Hause konzentriert wird.
+Generell zeigen sich in der empirischen Bildungsforschung oftmals Leis -
+tungsunterschiede zwischen den Geschlechtern, wobei sie für verschiedene 
+Inhaltsbereiche auch innerhalb eines Schulfachs variieren können  (Johnson, 
+1996). Für Deutschland wurde mehrfach festgestellt, dass Frauen sich weni -
+ger für Politik interessieren (u.  a. Westle, 2006) und sich weniger beteiligen 
+als Männer, wobei sich die Zahlen deutlich verschieben, wenn die Poli -
+tikfelder und Formen der Partizipation variiert werden  (Geißel & Penrose, 
+2003). Die Ursachen für unterschiedliche Formen der Partizipa  tion wer -
+den in institutionellen und sozioökonomischen Faktoren sowie Faktoren 
+der politischen Kultur und Sozialisation gesehen  (Westle &  Schoen 2002). 
+Sie führen, so ein nicht unumstrittener Erklärungsansatz zu unterschied -
+lichem Politikverständnis (Uehlinger, 1988, S.  165;  Gabriel, 1997, S.  472). 
+Es ist also unklar, ob Frauen und Männer quantitativ und qualitativ über 
+›anderes‹ politisches Wissen verfügen. Da Studien zum Primarschulbereich 
+bislang keine Zusammenhänge zum Geschlecht zeigen, könnte das Alter 
+eine relevante Rolle spielen und Geschlechterdifferenzen im Verlauf der Schulzeit variieren. Des Weiteren scheint die Ausprägung der Differenzen 
+kulturabhängig zu sein (Stanat & Bergann, 2009;  Blossfeld et al., 2009). 
+Zusammenhänge zwischen sozialen Herkunftsmerkmalen und Schul -
+leistungen werden seit langem festgestellt (z. B. Peisert, 1967). Auch in den 
+internationalen Schulleistungsstudien der letzten Jahre (PISA, IGLU, IEA) 
+zeigt sich, dass das sozioökonomische und kulturelle Milieu einen Ein -
+fluss auf die Kompetenzentwicklung der Schüler/-innen hat (Baumert & 
+Maaz, 2006; Bonsen, Frey & Bos, 2008). Insbesondere für Deutschland 
+zeigt sich ein deutlicher Zusammenhang zwischen der sozialen Herkunft und den Fachleistungen (OECD, 2004; Ehmke & Baumert, 2007), die zu -
+dem durch die Zusammensetzung der Schülerschaft in den verschiede -
+nen Klassen zu einer »kumulativen Privilegierung oder Benachteiligung«  (Baumert, Stanat & Watermann, 2006, S. 97) führen. Daher ist die sozia -
+le Herkunft zum einen auf der Individualebene, zum anderen auf der Ebe -
+ne der Klassenzusammensetzung zu beachten. Es gibt eingeführte Variab -
+len zur Erhebung des sozialen, ökonomischen und kulturellen Kapitals, die 
+jedoch zum Teil die Befragung der Eltern oder der Schule erfordern. Als 
+Indikator für das kulturelle Kapital dient in den Schulleistungsstudien die Frage nach der Anzahl der Bücher zuhause. Sie hat sich – trotz aller Kritik 
+– in Schulleistungsstudien bewährt (Rössl & Beckert-Zieglschmid, 2002) 
+
+25
+Politisches Wissen zur Demokratie von Schüler/-innen 
+und geht zurück auf den Ansatz von Bourdieu, wonach sich das kulturelle 
+Kapital in Form von Gütern materialisiert, also u. a. in der Anzahl der Bü -
+cher (Bourdieu, 1983). In den genannten Studien zeigt sich, dass je mehr Bücher zu Hause vorhanden sind, desto besser ist die Fachleistung der Schüler/-innen. Da oftmals das kulturelle Kapital mit dem sozioökonomi -
+schen Milieu zusammenhängen (Bonsen, Frey & Bos, 2008, S. 150), wird 
+sich in dieser Studie auf die Erhebung des kulturellen Kapitals beschränkt.
+Schüler/-innen mit Migrationshintergrund werden im deutschen Bil -
+dungswesen benachteiligt (Ramm, Prenzel, Heidemeier & Walter, 2004). In den internationalen Schulleistungsstudien wurde für Deutschland fest -
+gestellt, dass Schüler/-innen mit Migrationshintergrund über geringere  
+Kompetenzen in Mathematik, Naturwissenschaften und Lesen verfü -
+gen als Schüler/-innen ohne Migrationshintergrund (Baumert, Stanat &  Watermann, 2006; Walter, 2008). Bei einer stärkeren Differenzierung 
+der Gruppe mit Migrationshintergrund variieren diese Ergebnisse je -
+doch. In den großen Vergleichsstudien haben sich entsprechende Fragen 
+nach Nationalität, Geburtsland und Sprachgebrauch bewährt. So sind die  Migrant/-innen nach Herkunftsland und nach Einwanderungsgeneratio -
+nen zu unterscheiden (Glick & Hohmann-Marriott, 2007), indem Geburts -
+orte der Eltern abgefragt werden. Der Migrationsstatus der Schüler/-innen 
+wird in dieser Studie ebenfalls über das Geburtsland der Eltern ermittelt: 
+Beide Eltern wurden in Deutschland geboren; ein Elternteil wurde in 
+Deutschland und das andere im Ausland geboren; beide Eltern wurden im Ausland geboren. Des Weiteren wird das Geburtsland der Schüler/-innen 
+abgefragt. Ob die zu Hause gesprochene Sprache und die damit oftmals 
+zusammenhängenden Deutschkenntnisse der Schüler/-innen einen wich -
+tigen Faktor im Zusammenhang mit den Schulleistungen darstellen, wird 
+zwar kontrovers diskutiert (Diefenbach, 2007, S. 139ff; Hopf, 2005; Chris -
+tensen & Stanat, 2006; Eckhardt, 2008), ist aber als möglicher Einflussfak -
+tor zu kontrollieren. Die Schüler/-innen werden in dieser Studie gefragt, welche Sprache sie zu Hause sprechen: nur deutsch, deutsch und andere, 
+nur andere Sprachen. Zusätzlich zu dieser Angabe werden zwei Auszüge aus einem vom Institut zur Qualitätsentwicklung im Bildungswesen (IQB) 
+entwickelten Sprachtest eingesetzt.
+Werden die abgefragten Daten nach Geschlecht, dem kulturellen Kapi -
+tal, dem Migrationsstatus und der zu Hause gesprochenen Sprache mit dem Deutschtest kombiniert, ergeben sich Differenzierungen der Lebenswel -
+ten und Sozialisationsprozesse der Schüler/-innen (Wippermann & Flaig, 
+2009), die bei der Auswertung unterschieden und modelliert werden kön -
+nen. Nicht zuletzt scheint die Klassenzusammensetzung eine Rolle bei der 
+
+26
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+Kompetenzentwicklung der Schüler/-innen zu spielen (Stanat, 2006), so 
+dass sämtliche Auswertungen auf Individual- und Klassenebene zu erfol -
+gen haben. Ähnlich wie bei den internationalen Leistungstests wird die -
+ser Wissenstest gleichfalls für 9. Klassen konzipiert, so dass die Vorlagen aus anderen Tests genutzt werden können. Zudem soll er an Realschulen 
+durchgeführt werden, die aufgrund der Schulform ein mehr oder we  niger 
+mittleres Leistungsniveau und eine ausreichende Anzahl an Schüler/  -innen 
+mit Migrationshintergrund versprechen. 
+3.  Anlage der POWIS Studie
+Im Zusammenhang mit dem Projekt »Politisches Wissen von Schüler/   -in-
+nen    (POWIS)« wurden Daten zum Wissen der Schüler/-innen erhoben, 
+die in Lehr-/Lerngruppen multiethnischer Zusammensetzung unterrichtet 
+werden. Die Befragung war beschränkt auf Schüler/-innen der 9. Klasse   in 
+Realschulen. Realisiert wurde das Projekt in der Zusammenarbeit der TU 
+Braunschweig, der PH Karlsruhe und der TU Dortmund. Die Studie wurde 
+gefördert von der Bundeszentrale für politische Bildung. Die Autor/  -innen 
+danken in erster Linie den vielen Schüler/-innen, die an der Untersuchung 
+teilgenommen haben. Der Dank gilt auch  Holger  Föllmer, Patrick Krug, 
+Katrin Hahn-Laudenberg, Peter Massing und  Monika Oberle   für die Un -
+terstützung bei der Itemformulierung. Dank gebührt ebenfalls Olaf Köller 
+und Oliver Wilhelm für ihre wertvolle Unterstützung. Ein großes Team 
+von studentischen Hilfskräften hat mit großem Engagement und Gewissen -
+haftigkeit dafür gesorgt, dass die Datenerhebung und -erfassung zügig und 
+erfolgreich umgesetzt werden konnte. Mögliche Fehler in der Datenanalyse  
+gehen zu Lasten des Standortes Karlsruhe.
+Für die Datenerhebung wurde ein standardisierter Fragebogen entwi -
+ckelt. Mit dem Fragebogen wurden drei Bereiche abgefragt: sozialstatis -
+tische Daten, politisches Wissen und Sprachfähigkeit. Bei den sozialsta -
+tistischen Daten wurde das Alter, das Geschlecht, das Geburtsland des/r 
+Befragten/Vater/Mutter, die zu Hause gesprochenen Sprachen und der 
+Bücherbestand (ohne Zeitschriften, Schulbücher o. ä.) zu Hause erfragt. 
+Die drei zentralen Fragestellungen waren:1.  Welchen Wissenstand haben Schüler/-innen der Realschule in der Jahr -
+gangstufe 9 in der Domäne Politik?
+2.  Wie wirken sich die individuellen und klassenspezifischen Lernumge -
+bungen auf die Leistungsstände aus?
+
+27
+Politisches Wissen zur Demokratie von Schüler/-innen 
+3.  Welchen Einfluss hat die Sprachfähigkeit in Deutsch auf das politische 
+Wissen?
+Der sukzessive Fragebogenaufbau sah folgendermaßen aus:• Einleitung
+• Geschlecht, Bücherfrage, Migrationshintergrund
+• (sprachlicher) Lückentest
+•  Bürgerrechte – Fachkonzepte Freiheit, Gleichheit, Menschenwürde, 
+Grund  rechte
+• Wahlen – Fachkonzept Wahlen
+• Parlamentarische Demokratie – Fachkonzept Demokratie
+• Verhältnis von Bund und Ländern – Fachkonzept Regierung
+• (sprachlicher) Verstehenstest
+Die Schüler/-innen erhielten Mehrfachwahlaufgaben mit vier Antwortal -
+ternativen, darunter eine Richtigantwort. Die Fragen des politischen Wis -
+senstests lagen in einem einheitlichen Format vor. Er enthielt Items zu den 
+vier verschiedenen inhaltlichen Aspekten des politischen Systems der Bun -
+desrepublik (Module) und mit unterschiedlicher Schwierigkeit (Politik -
+kompetenz). Drei Fragen wurden aus der IEA-Studie übernommen. Die Verständlichkeit und Lösbarkeit der Items wurden in drei vorangestellten Pilotierungswellen untersucht. Für die Bearbeitung dieser 43 Fragen wa -
+ren 25 Minuten vorgesehen. 
+Hinzu kamen zwei normierte Tests zur Sprachbeherrschung, die das In -
+stitut zur Qualitätsentwicklung im Bildungswesen (Humboldt- Universi -
+tät Berlin) zur Verfügung gestellt hatte. Die Deutschtests sollten klären, ob das Abschneiden im politischen Wissenstest entscheidend von der Sprach -
+beherrschung abhängt. Zum Einsatz kamen Tests mit 20 zu vervollstän -
+digenden Lücken und ein Leseverstehenstest mit 10 Items zur Erfassung sprachlicher Fähigkeiten.
+Im Frühjahr 2008 wurden von Studierenden der drei beteiligten Uni -
+versitäten Schulleitungen und später Lehrer/-innen in den drei Bundeslän -
+dern für eine Mitarbeit gewonnen. Die Studierenden gaben ein Anschrei -
+ben der jeweiligen Universität/Hochschule weiter, das über die Ziele, den 
+Umfang, die Inhalte, die zeitliche Inanspruchnahme (45 Minuten) und 
+den zu erwartenden Organisationsaufwand informierte. Etwa die Hälfte der angesprochenen Schulen war bereit mitzuwirken und holte  das Ein -
+verständnis der Erziehungsberechtigten ein. An der Durchführung waren 18 speziell geschulte Testleiter/-innen beteiligt. Sie führten die Testungen durch und hatten die Aufgabe, eine kontrollierte Testsituation herzustellen. 
+Die Testungen erfolgten unter genauer Beachtung des Testleiterskripts, in 
+
+28
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+dem u. a. genaue Zeitangaben für die beiden Testteile (25 Minuten Wis -
+senstest und 15 Minuten Sprachtests) beschrieben waren. Sie erstellten für 
+jede Testsitzung ein Protokoll, in dem ggf. Auffälligkeiten oder besonde -
+re Vorkommnisse notiert wurden. 
+Insgesamt wurden die Testungen in 82 Realschulklassen durchgeführt, 
+um das Niveau einer mittleren Schulbildung zu erfassen und Decken- bzw. 
+Basiseffekte zu vermeiden. Teilgenommen haben 2 028 Schüler/-innen. 
+Tab. 1:  Zusammensetzung der Stichprobe nach Standorten, Schulen,  Klassen 
+und Schüler/-innen
+Schulen Klassen Schüler/-innen Pro Klasse
+Braunschweig 11 30 696 23.2
+Dortmund 12 33 890 26.9
+Karlsruhe 7 19 442 23.2
+Gesamt 30 82 2 028
+Es nahmen 51,0 % männliche und 49,0 % weibliche Probanden teil (zum 
+Vergleich Bundesrepublik: 51,6  % / 48,4 %). 68,4  % der Teilnehmer/-in -
+nen war ohne Migrationshintergrund, 31,6 % mit Migrationshintergrund 
+(zum Vergleich Bundesrepublik: 29,7  %). Der relative Anteil der Schüler/ 
+-innen an der Studie entsprach in etwa den relativen Anteilen, den der 
+Bundesdurchschnitt an Schüler/-innen für die Schulkassen der Sekundar -
+stufe I aufwies. Darüber hinaus wurden als weitere Merkmale die zu Hause  
+gesprochene Sprache, die Geburtsländer der Eltern und das kulturelle Ka -
+pital erfasst.
+4. Messung des politischen Wissens zur Demokratie
+Vorrangiges Ziel der folgenden Analysen ist die Erstellung einer Skala, auf 
+der das politische Wissen der Schüler/-innen angeordnet werden kann. Sie 
+sollte im Zusammenhang mit der Sprachbeherrschung entstehen, da der be -
+sondere Fokus neben der Erstellung eines Testheftes auf der Betrachtung der 
+Schüler/-innen mit Migrationshintergrund liegt. Die Skala soll bestimm -
+te Güteanforderungen an Reliabilität und Validität erfüllen. Die Skalie -
+rung der Items erfolgte anhand des Raschmodells (Rasch, 1960), ein stren -
+ges probabilistisches Messmodell ( Item Response Theorie ). Probabilistische 
+Messmodelle trennen zwischen beobachtbaren manifesten und nicht beob -
+
+29
+Politisches Wissen zur Demokratie von Schüler/-innen 
+achtbaren, so genannten latenten Variablen. Die latente Personen  fähigkeit 
+»politisches Wissen « erschließt sich über die Betrachtung des Antwortver -
+haltens auf alle Fragen. Danach ist die Wahrscheinlichkeit einer richtigen 
+Antwort abhängig von der Fähigkeit der antwortenden Person (Personen -
+parameter) sowie der Schwierigkeit der Frage (Itemparameter). Die Lö -
+sungswahrscheinlichkeit ist somit eine Funktion aus Item- und Personen -
+parameter.
+Bei der Konstruktion der Testfragen wurde von der Grundannahme 
+ausgegangen, dass alle Fragen politisches Wissen messen und somit auf einen gemeinsamen Faktor zurückzuführen sind. Diese Eindimensionali -
+tät der Skala muss jedoch zunächst geprüft werden, da die Antworten der 
+Probanden auch von anderen Faktoren wie Einstellungen oder dem kul -
+turellen Hintergrund beeinflusst werden können, die mit Wissen kon -
+fundieren. Eine weitere Anforderung an die Skala besteht darin, dass die Antworten unabhängig von relevanten »Gruppenmitgliedschaften« sein 
+sollen. Es ist zu prüfen, ob die Schüler/-innen mit Sprachschwierigkei -
+ten in Deutsch bestimmte Fragen zur Politik kognitiv anders erfassen und verarbeiten als ihre Klassenkamerad/-innen ohne diese Schwierigkeiten 
+und allein dadurch ein anderes Antwortverhalten zeigen. Gleichermaßen 
+sind Unterschiede zwischen Mädchen und Jungen möglich, die unter -
+schiedlichen Sozialisationen im Bereich von Politik und Öffentlichkeit ge -
+schuldet sind. Die Frage, ob zwischen diesen Gruppen eine kognitiv ein -
+heitliche Wahrnehmung der Testitems besteht, ist somit der Frage nach unterschiedlichen Testergebnissen vorgelagert.
+Um die Annahme der Eindimensionalität zu prüfen, nach der alle ver -
+wendeten Items auf einen einzigen Faktor zurückgehen, wurde mit dem Statistikpaket ConQuest 2.0 (Wu, Adams, Wilson & Haldane, 2007) ein 
+Generalfaktorenmodell gerechnet. Der Generalfaktor wird so geschätzt, 
+dass er die Korrelation zwischen den verwendeten Items möglichst voll -
+ständig erklärt. Dies geschieht mit Hilfe des Maximum ­Likelihood -Schätz -
+verfahren. Für die Bestimmung der Personenparameter wurden weighted 
+Maximum ­Likelihood ­Estmates (WLE) verwendet. Für jedes Item werden 
+Infit-  Werte (standardisierter Mean Square ) ausgegeben, die anzeigen, wie 
+sehr eine Itemfunktion in ihrem tatsächlichen Verlauf von dem durch 
+das Modell vorhergesagten Verlauf abweicht. Als Grenzwert wurde ein Infit  von 1.15 gesetzt. Items, die diesen Wert überschritten, wurden aus -
+geschlossen. In diesem Fall gab es aber nur ein Testitem, das über dem Cutoff - Wert lag. 
+Die zweite Annahme, dass das Messmodell unabhängig von Grup -
+pen ist, wurde mithilfe von differentiellen Itemfunktionen geprüft. Die 
+
+30
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+Parameter werden für Jungen und Mädchen sowie für Jugendliche über -
+durchschnittlicher und unterdurchschnittlicher Sprachfähigkeit getrennt 
+berechnet und die Abweichungen bewertet, um festzustellen, ob ein sig -
+nifikanter Interaktionseffekt zwischen Gruppenmitgliedschaft und Test -
+parameter vorliegt. Inhaltlich möchte man bspw. feststellen, ob ein Jun -
+ge und ein Mädchen mit gleicher Personenfähigkeit eine bestimmte Frage 
+mit der gleichen Wahrscheinlichkeit richtig beantworten können. Ist dies nicht der Fall, erfüllt die Frage das Gütekriterium nicht. Ein Item wurde 
+ausgeschlossen, wenn der Itemparameterabstand zwischen den Gruppen 
+mehr als 20 Prozent einer Standardabweichung betrug. 
+Tab. 2:    Anpassungsgüte des Messmodells zur Erklärung der fach bezogenen 
+Testleistung aus kognitiver Perspektive
+eindimensionales Modell
+Final deviance  64255.16809
+df  26
+WLE/EAP Reliabilität  .760
+Verglichen wurden zunächst Jugendliche, deren Punktzahl in beiden Deutschaufgaben über dem Mittelwert lag, mit solchen, die in beiden Auf -
+gaben unterdurchschnittlich abschnitten. Es zeigte sich, dass bei vielen Fragen zum politischen Wissen ein großer Unterschied in den Itempara -
+metern zwischen den Gruppen besteht. Das deutet darauf hin, dass manche 
+Items bei geringer Sprachfähigkeit nicht bzw. anders verstanden wurden. 
+Zwischen Jungen und Mädchen waren dagegen nur bei wenigen Fragen größere Abweichungen zu erkennen. Insgesamt mussten 17 Fragen ausge -
+schlossen werden, sodass das verwendete Messmodell aus 27 Fragen besteht (Cronbachs- α= .7613). Inhaltlich standen hinter diesen Ausfällen unein -
+deutige sprachliche Formulierungen. 
+Im endgültigen Messmodell wurde ein Generalfaktor mit 27 Indikato -
+ren gebildet, der zusätzlich die Sprachfähigkeit und das Geschlecht als bi -
+när kodierte Hintergrundvariablen mit berücksichtigt. Das Modell enthält lediglich die Haupteffekte dieser Hintergrundvariablen. Es verfügt über 
+eine hinreichende Anzahl an Items, um die Fähigkeiten der Schüler/-in -
+nen festzustellen. Interaktionen zwischen diesen Variablen (z. B. der Effekt 
+von Jungen mit unterdurchschnittlicher Sprachfähigkeit) hatten keinen Einfluss. Das entsprechende konkurrierende Modell zeigte einen größe -
+ren Devianzwert und unterschied sich nicht signifikant von dem hier ver -
+
+31
+Politisches Wissen zur Demokratie von Schüler/-innen 
+wendeten. Das psychometrische Kriterium der Konstruktvalidität ist für 
+das Testheft gegeben. Ein einziges Fähigkeitssyndrom bestimmt das Mus -
+ter der Antworten. Das Fachwissen der Schüler/-innen weist somit in sei -
+nen kognitiven Anforderungen spezifische Aspekte auf. 
+Schaubild 1: Messmodell mit Hintergrundvariablen
+Zur Prüfung der Inhaltsvalidität des Politiktests wurde ein Expertenre -
+view durchgeführt. Die Fragen sollten curricular sensitiv und somit in 
+allen Bundesländern replizierbar sein. Deshalb wurden die Testfragen 
+16 Expert/-innen zur Einschätzung der curricularen Validität vorgelegt. Es wurde bei jeder Frage um zwei Einschätzungen gebeten:
+1.  Anteil der Probanden, die die Frage richtig lösen. Die durchschnittliche 
+Abweichung der Experteneinschätzung vom tatsächlichen Anteil richti -
+ger Antworten beträgt 9 Prozentpunkte.
+2.  Wichtigkeit der Frage für die politische Grundbildung am Ende der Se -
+kundarstufe I: Die Expert/-innen hielten 72 % der Fragen für wichtig 
+oder sehr wichtig für die politische Grundbildung am Ende der Sekun -
+darstufe I. 
+Aufgrund der hohen Übereinstimmung kann der Test als curricular valide 
+angesehen werden. Die Fragen betreffen schulische Inhalte. Zusammen -Generalfaktor
+politischen 
+WissensSprachfähigkeit
+GeschlechtF1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F21
+F22F23F24
+F25
+F26
+F27…
+
+32
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+fassend kann man festhalten, dass eine theoriegeleitet entwickelte und em -
+pirisch realisierbare Erfassung der Politikkompetenz von Schüler/  -innen 
+gelungen ist.
+5. Empirische Analysen
+Im vorhergehenden Kapitel wurden die Befunde zur psychometrischen 
+Qualität der Items und zur Inhaltsvalidität referiert. Dabei ist die Erstel -
+lung eines Itempools von 27 Fragen mit guter Modellpassung gelungen. 
+Tab. 3: Histogramm der Skalenwerte
+item Skalenpunkte
+Hafenstraße
+Reporterin (IEA)Diskriminierung (IEA)
+Freiheitsverletzung (IEA) 
+PolizeirechtMoscheeGemeinderatWahlfunktion
+Wahlprogamme
+BundestagswahlenWahlkreiskandidatimperatives Mandat
+vorgezogene Neuwahl
+Stimmen bei der BundestagswahlZiel des WahlkampfsHauptaufgabe Parlament
+Gefahr für die Demokratie
+Kennzeichen DiktaturDemokratieverständnisOnlinedurchsuchungUndemokratisches Land
+Bundestaatlichkeit
+Kulturhoheit der LänderMitglieder Bundesratkonkurrierende GesetzgebungFahrradwegePolizeihoheit705130303
+556
+077380253649
+283
+533750511
+890
+451308420
+721
+400423592428
+637
+594837595504570
+
+33
+Politisches Wissen zur Demokratie von Schüler/-innen 
+Messmodelle beschreiben die interne Struktur eines Fragensets. In die -
+sem Kapitel sollen die Ergebnisse der Analysen referiert werden. Hier -
+zu werden die Aufgabenschwierigkeiten analysiert und Regressionsmo -
+delle gerechnet. 
+In einem ersten Analyseschritt wurde die Aufgabenschwierigkeit be -
+stimmt. Hierzu wird über das Messmodell jeder Person über das WLE-
+Schätzverfahren ein bestimmter Skalenwert zugeordnet, der das politische Wissen beschreibt. Die Skala wird durch Standardisierung so angepasst, 
+dass sie einen Mittelwert von 500 und eine Standardabweichung von 
+200 Skalenpunkten besitzt. Die Testergebnisse sind annähernd normal -
+verteilt.
+Die Tab. 3 mit ausgewählten Beispielfragen verdeutlicht ihre Anord -
+nung mit unterschiedlicher Schwierigkeit. Eine Aufgabenschwierigkeit von 500 bedeutet, dass Personen mit einer Fähigkeit von 500 diese Aufga -
+be mit einer Wahrscheinlichkeit von p> .50 lösen. Die Itemschwierigkeit stellt im Messmodell zugleich den Mindestpunktwert dar, den eine Person zur richtigen Beantwortung besitzen muss. Die Werte an der Skala geben an, welche Fähigkeit eine Person mindestens besitzen muss, um eine Fra -
+ge mit über 50 % Wahrscheinlichkeit richtig zu beantworten.
+Vergleicht man die Mittelwerte an den drei Standorten, so kommt 
+Karlsruhe auf 523 Punkte, Braunschweig auf 499 und Dortmund auf 490. 
+Der Unterschied zwischen Karlsruhe und Dortmund ist schwach signifi -
+kant. Einschränkend ist darauf hinzuweisen, dass mit diesen Daten keine 
+Rückschlüsse auf die jeweiligen Länder möglich sind und dass die Aus -
+wahl der Schulen und Klassen an den drei Standorten nicht zufällig war.
+In den folgenden Analysen soll der Frage nachgegangen werden, wel -
+chen Beitrag die im Fragebogen erhobenen Variablen zur Erklärung des 
+politischen Wissens beitragen. Dazu werden mit dem Statistikpaket HLM6 
+(Raudenbusch, Byrk, Cheong, Congdon & du Toit, 2004)  hierarchische 
+Regressionsmodelle gerechnet, die es erlauben, den Einfluss mehrerer 
+unabhängiger Variablen auf verschiedenen Hierarchieebenen zu bestim -
+men. Solche Mehrebenenanalysen gehen nicht von einer Stichprobe mit 
+unabhängigen Individuen aus, sondern berücksichtigen Aggregateinhei -
+ten. Im vorliegenden Fall wurde der Wissenstest in verschiedenen Klassen durchgeführt. Ein Individuum ist somit auch als Bestandteil einer   Schul -
+klasse zu betrachten. Bestimmte denkbare Einflussfaktoren sind auf Klas -
+senebene angesiedelt (z.  B. Merkmale der Lehrenden, des Unterrichts, 
+der Zusammensetzung der Klasse). Einfache lineare Modelle können da -
+her zu Verzerrungen bei der Schätzung der individuellen Schülerleistung 
+führen. 
+
+34
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+Schaubild 3: Skala der Itemschwierigkeiten mit 4 Beispielfragen
+Welche Handlung ist schädlich 
+für die Demokratie?
+•  wenn im Bundestag gestritten 
+ wird.•  wenn eine Zeitung die Regierung  kritisiert.•  wenn der Bauernpräsident mehr    Geld für Landwirte fordert.• wenn ein Abgeordneter sich von   einer Firma Luxusreisen schen- ken lässt. In vielen Fragen muss neben dem Bundestag auch der Bundesrat neuen Gesetzen zustimmen.  Was ist die Folge? • Es ist schwieriger, eine politische   Lösung zu finden.• Der Bundestag hat nichts mehr  zu sagen.• Die Macht des Bundespräsiden- ten steigt.• Es ist einfacher, eine politische  Lösung zu finden.
+500Eine Demokratie unterscheidet sich von einer Diktatur dadurch, dass…
+• es eine Partei gibt.
+• die Bevölkerung genug zu essen  hat.• die Bevölkerung die Regierung   abwählen kann.• die Bürger/-innen tun und lassen  können, was sie wollen.
+Im Wahlkampf streiten sich die Politiker/-innen über die verschiedenen Programme, um…
+• die Politik interessanter zu 
+ machen.• möglichst viele Stimmen zu  bekommen.• in viele Talkshows zu kommen.• von ihren eigentlichen Zielen  abzulenken.
+Wissensskala400
+283595721
+
+35
+Politisches Wissen zur Demokratie von Schüler/-innen 
+Schaubild 4: Klassen- und Individualmerkmale
+Bei der Berechnung der Modelle wurden alle Variablen z-standardisiert 
+und um den Gesamtmittelwert zentriert. Der Grund für diese Zentrie -
+rung liegt darin, dass besonders Kontexteffekte interessieren, d. h. es wird 
+gefragt, ob die Zusammensetzung der Klasse (der Kontext) noch einen  eigenen Effekt entwickelt, wenn man die persönlichen Eigenschaften der 
+Schüler/-innen kontrolliert (Lüdtke et al., 2009). Auf Klassenebene könn -
+te das individuelle Wissen z. B. durch die deutsche Herkunftssprache be -
+einflusst werden, aber darüber hinaus noch durch den Anteil derjenigen, für die Deutsch Zweitsprache ist. 
+Einflussfaktoren auf das Wissen auf Individualebene:
+• Geschlecht
+•  Kulturelles Kapital der Eltern gemessen über die Zahl der Bücher zu -
+hause (PISA 2006)
+•  Migrationsherkunft der Eltern: beide in Deutschland geboren; ein El -
+ternteil im Ausland geboren; beide im Ausland geboren
+•  Sprache(n) im Elternhaus: türkisch, italienisch, osteuropäische Sprache, 
+andere Sprache 
+•  Deutscher Sprachtest (IQB: »Tiger-Mensch« und »Bewerbung«) gemes -
+sen über zwei metrische Skalen, die hier als zwei  binäre Variablen »in 
+beiden Deutschaufgaben unter Durchschnitt« vs. »in beiden Deutschaus -
+gaben über dem Durchschnitt« kategorisiert wurden.Kontextprädiktoren
+(Klassenmerkmale)
+Individualprädiktoren
+(Individualmerkmale)Abhängige
+Variable
+(politisches Wissen)Individalebene
+(Klassen)
+Individalebene
+(Schüler)
+
+36
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+Einflussfaktoren auf das Wissen auf Klassenebene :
+• Klassenstärke
+• Aggregate der Individualebene zentriert um das Gesamtmittel
+• Geschlechteranteil
+• Bücherzahl
+• Herkunft der Eltern
+• gesprochene Sprachen zu Hause
+Bevor die Regressionsmodelle geschätzt werden, soll zunächst geprüft 
+werden, ob die Kennzahlen der verwendeten Variablen bestimmten Güte -
+kriterien entsprechen. In Tab. 4 gibt der Intraklassenkoeffizient ICC(1) an, 
+welcher Anteil der Gesamtvarianz auf Klassenebene liegt. Dieser ist zwi -
+schen den Variablen recht unterschiedlich, aber insgesamt eher als niedrig 
+zu bewerten. Der ICC(2) gibt die Reliabilität der Mittelwerte auf Klasse -
+nebene an und sollte mindestens .70 betragen (Lüdtke et al., 2009). Es zeigt sich, dass einige der binär kodierten Variablen diesen Grenzwert nicht er -
+reichen. Da sie aber zu einer Batterie von Kategorien gehören, können sie nicht sinnvoll aus dem Modell entfernt werden, ohne die Batterie als Gan -
+zes herauszunehmen.
+Tab. 4: Ergebnisse der Varianzanalysen
+Intraklassen -
+koeffizient 
+ICC (1)Reliabilität auf 
+ Klassenebene 
+ICC(2)
+Geschlecht .057 .597
+Geburtsland der Eltern
+• ein Elternteil im Ausland
+• beide Elternteile im Ausland.031
+.102.441
+.738
+Zuhause gesprochene Sprachen• türkisch
+• italienisch
+• osteuropäische Sprachen
+• andere Sprachen.077
+.242
+.084
+.056.673
+.888
+.694
+.596
+Sprachfähigkeit in Deutsch• in beiden Tests überdurchschnittlich
+• in beiden Tests unterdurchschnittlich.182
+.187.847
+.851
+Zahl der Bücher zuhause .160 .825
+
+37
+Politisches Wissen zur Demokratie von Schüler/-innen 
+Tab. 5:  Ergebnisse der Regressionsanalysen auf Individual- und Klassen ebene
+Individualebene (n = 2 028)Modell 1 Modell 2 Modell 3 Modell 4
+Konstante 504,06 504,00 504,82 504,00
+Geschlecht : weiblich -4,33 -3,88 -10,68* -10,35*
+Geburtsland der Eltern
+(Referenzkategorie:  beide Deutschland)
+• ein Elternteil im Ausland
+• beide Elternteile im Ausland-12,64**
+-34,43***-7,02
+-21,11**-6,08
+-16,69*-5,56
+-13,94*
+Zuhause gesprochene Sprachen
+(Referenzkategorie: nur deutsch)
+• türkisch
+• italienisch
+• osteuropäische Sprachen
+• andere Sprachen-15,59**
+-17,34***
+-7,85
+-4,39-13,25**
+-15,37***
+-5,74
+-2,48-12,55**
+-12,05***
+-4,62
+-2,06
+Sprachfähigkeit in Deutsch
+• in beiden Tests überdurchschnittlich
+• in beiden Tests unterdurchschnittlich38,53***
+-24,40***38,23***
+-21,88***
+Zahl der Bücher zuhause 29,22***
+Klassenebene (n = 82)
+Klassenstärke -4,17* -3,51 -5,85* -1,63
+Geschlecht : weiblich 95,77** 93,64* 42,62 23,77
+Geburtsland der Eltern 
+(Referenzkategorie:  beide Deutschland)
+• ein Elternteil im Ausland
+• beide Elternteile im Ausland-57,89
+-103,47**-0,94
+59,2026,91
+84,3045,87
+151,20**
+Zuhause gesprochene Sprachen
+(Referenzkategorie: nur deutsch)
+• türkisch
+• italienisch
+• osteuropäische Sprachen
+• andere Sprachen-139,42*
+-47,40*
+-108,88
+-64,78-94,97*
+-27,86
+-91,30
+-89,82*-95,78*
+-41,03*
+-108,66*
+-104,53**
+Sprachfähigkeit in Deutsch• in beiden Tests überdurchschnittlich
+• in beiden Tests unterdurchschnittlich1,48
+-75,55**-12,35
+-50,17*
+Zahl der Bücher zuhause 92,39***
+ICC 0,178 0,168 0,121 0,077
+Pseudo-R² (Snijders & Bosker, 1999) 0,109 0,115 0,226 0,282
+
+38
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+Modell 1
+In den nachfolgenden hierarchischen Regressionsmodellen werden die 
+unabhängigen Variablen schrittweise in das Modell eingefügt. Modell 1 
+enthält lediglich das Geschlecht sowie die Herkunft der Eltern auf bei -
+den Hierarchieebenen und auf Klassenebene zusätzlich die Klassenstärke. 
+Schüler/-innen, von denen mindestens ein Elternteil im Ausland gebo -
+ren ist, schneiden im Wissenstest signifikant schlechter ab, als Mitschüler/ -innen, deren Eltern beide in Deutschland geboren sind. Sind beide Eltern im Ausland geboren, ist der Abstand fast dreimal so groß. Zusätzlich ent -
+faltet die Herkunft auch auf Klassenebene einen negativen Effekt: Schüler/-innen in Klassen mit einem stark überdurchschnittlichen Anteil an Eltern ausländischer Herkunft zeigen eine geringere Testleistung. Schwach nega -
+tiv wirkt sich ebenfalls eine überdurchschnittliche Klassenstärke aus. Inte -
+ressanterweise sind auch Personen in Klassen mit besonders hohem Mäd -
+chenanteil beim Wissenstest leicht begünstigt. Auf der Individualebene hat das Geschlecht jedoch keinen signifikanten Einfluss: Mädchen erzielten im 
+Tests keine geringere Punktzahl als Jungen.
+Modell 2
+In Modell 2 wurden zusätzlich die zuhause gesprochenen Sprachen in das 
+Modell aufgenommen, die unterteilt sind in Türkisch, Italienisch, osteuro -
+päische Sprachen sowie andere Sprachen. Die Variablen fassen Haushalte zusammen, wo entweder neben deutsch noch die jeweilige Herkunftsspra -
+che gesprochen wird, oder wo ausschließlich die jeweilige Herkunftsspra -
+che benutzt wird. (Eine Mischung von verschiedenen Sprachkategorien lag in der Stichprobe nicht vor.) Es fällt auf, dass sich der Effekt der Elternher -
+kunft auf beiden Ebenen abschwächt, während die Sprachvariablen signi -
+fikante Einflüsse zeigen. Lediglich auf Individualebene behält die Variab -
+le »beide Elternteile im Ausland geboren« einen schwachen Effekt. Somit ist für die Leistung im Wissenstest weniger die Herkunft der Eltern, son -
+dern die zuhause gesprochene Sprache maßgeblich. Schüler/-innen, die zuhause türkisch oder italienisch sprechen, sind im Test benachteiligt, auch nachdem kognitiv problematische Fragen aus der Messskala entfernt 
+wurden. Für Schüler/-innen, die eine osteuropäische Sprache sprechen, 
+gilt dies dagegen nicht. Unter Kontrolle des individuellen Effekts zeigen sich auch Kontexteffekte auf Klassenebene: Schüler/-innen in Klassen mit überdurchschnittlich vielen italienisch oder türkisch sprechenden Mitglie -
+
+39
+Politisches Wissen zur Demokratie von Schüler/-innen 
+dern schneiden im Test leicht schlechter ab, unabhängig von ihrer eigenen 
+Sprache. Osteuropäische Sprachen sowie die Kategorie »andere Sprachen« 
+haben dagegen keinen bedeutsamen Einfluss.
+Modell 3
+Modell 3 enthält zwei binär kodierte Variablen, die sich auf die Leistung 
+im Deutschtest beziehen. Dabei soll die Leistung von Personen untersucht 
+werden, die in beiden Deutschtestaufgaben entweder unterdurchschnittli -
+che oder in beiden Aufgaben überdurchschnittliche Punktzahlen erreich -
+ten. Ziel ist es zu klären, ob die Benachteiligung von fremdsprachigen Schüler/-innen in Modell 2 auf eine allgemein niedrige Sprachfähigkeit 
+zurückzuführen ist, die auch bei rein deutschsprachigen Probanden hoch oder niedrig ausgeprägt sein kann. Die Ergebnisse deuten jedoch eher in 
+die andere Richtung: Die allgemeine Sprachfähigkeit in Deutsch hat einen 
+starken positiven Effekt auf die Leistung im Wissenstest, die geringere Sprachfähigkeit einen entsprechend negativen, obgleich viele sprachlich 
+missverständliche Fragen vorher aussortiert wurden. Aber auch unter Kon -
+trolle der Sprachfähigkeit bleibt das schlechtere Abschneiden von türkisch 
+oder italienisch sprechenden Jugendlichen bestehen. 
+Kontrolliert man die Sprachfähigkeit in Deutsch wird der Einfluss des 
+Geschlechts in den Modellen 3 und 4 schwach signifikant. Im Durch -
+schnitt schneiden Mädchen im Wissenstest etwas schlechter ab als Jun -
+gen, wenn man die Sprachfähigkeit konstant hält. Dies kann als Indiz da -
+für gewertet werden, dass Mädchen ihre leichte Benachteiligung in Bezug auf das politische Wissen möglicherweise mit einer höheren Sprachfähig -
+keit kompensieren können. Auf Klassenebene schwächt sich der Effekt des 
+Zweitsprachenanteils dabei ab. Hier zeigt sich ein größerer negativer Ein -
+fluss durch geringe allgemeine Sprachfähigkeit in der Klasse: Eine Person 
+ist gegenüber einer anderen Person mit gleicher Sprachfähigkeit im poli -
+tischen Wissenstest benachteiligt, wenn sie eine Klasse besucht, in der die Sprachfähigkeit der Schüler/-innen unterdurchschnittlich ausgeprägt ist.
+Modell 4
+Als letzter Schritt wird in Modell 4 die Zahl der Bücher im Haushalt berücksichtigt, die als Proxy für das kulturelle Kapital der Eltern dient. 
+Die Variable ist dabei eine zentrale Bestimmungsgröße bei der Erklärung 
+
+40
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+des politischen Wissens. Je mehr Bücher die Eltern besitzen, desto besser 
+schneiden die Kinder im Wissenstest ab. Dabei profitieren die Schüler/ 
+-innen nicht nur von den eigenen Eltern, sondern auch von der Klassen -
+zusammensetzung: Wenn in der Klasse bei besonders vielen Eltern eine 
+große Bücherzahl vorhanden ist, begünstigt dieser Umstand die Leistung 
+einer einzelnen Person unabhängig von deren eigener Bücherausstattung. 
+Der Einfluss der Zweitsprachen Türkisch und Italienisch bleibt auf beiden Ebenen signifikant. Dies kann ein Hinweis darauf sein, dass die Benach -
+teiligung fremdsprachiger Schüler/-innen auch zu einem gewissen Teil durch das geringere, in Deutschland »verwertbare« kulturelle Kapital der Eltern vermittelt wird. 
+Der ICC gibt hier den Anteil der Gesamtvarianz an, der auf Klassenebe -
+ne liegt. Dieser wird hier umso geringer, je mehr Variablen in das Modell eingefügt werden. Pseudo-R² dient als Ersatz für das in einfachen linearen 
+OLS-Regressionen übliche Maß für den Anteil der durch das Modell er -
+klärten Varianz. Es berechnet sich, indem die Fehler eines unrestringier -
+ten »Nullmodells«, das lediglich eine Konstante enthält, mit den Fehlern 
+des Analysemodells ins Verhältnis gesetzt werden.
+6. Diskussion der Ergebnisse
+Mit der Diskussion um Bildungsstandards für die Kernfächer und die Na -
+turwissenschaften und mit der stärkeren Betonung erreichter Kompe -
+tenzstände ist auch die Untersuchung der Politikkompetenz in das Blick -
+feld der Politikdidaktik gerückt. Bisher gibt es aber wenige Informationen über das ›Schulwissen Politik‹. Die IEA­Civic ­Education -Studien werden 
+in Deutschland von den Kultusminister/-innen nicht mehr fortgeführt. Die Testhefte des Einbürgerungstests, die das IQB erstellt hat, sind für Er -
+wachsene gedacht und setzen auf einer niedrigeren Stufe der Civic Litera ­
+cy (politischer Grundbildung) und der Sprachkompetenz an. Gleichwohl 
+können die Ergebnisse dieser größeren Studien zur Interpretation herange -
+zogen werden. Dies gilt insbesondere für die Begleitforschung des IQB mit 
+Schulklassen (vgl. den Beitrag von Wilhelm, Hülür, Köller &  Radalewski 
+in diesem Band).
+Mit der vorliegenden Studie konnte nur ein kleiner Beitrag zur Erfor -
+schung der Politikkompetenz im Bereich Wissen geleistet werden. Ein in 
+einigen Punkten reliabler und valider Wissenstest zeigt den mittleren Leis -
+tungsstand der Schüler/-innen in Klasse 9. Dabei zeigt sich in der Aus -
+wertung von POWIS insgesamt eine positive Bilanz. Die Schüler/-innen 
+
+41
+Politisches Wissen zur Demokratie von Schüler/-innen 
+verfügen im Durchschnitt über Wissen, das im Schulunterricht vermittelt 
+wird. Wegen einer fehlenden Kontrollgruppe ist hier einschränkend darauf 
+hinzuweisen, dass das Wissen auch aus den Medien oder dem Elternhaus 
+kommen kann. Zwar können mit dieser Studie keine Aussagen über den Wissenszuwachs durch Politikunterricht oder über den Vergleich zwischen 
+Jahrgangsstufen und Schulformen gemacht werden, so ist doch festzuhal -
+ten, dass diese Momentaufnahme entweder ein beachtliches »Schulwis -
+sen Politik« zeigt, das in dieser Form nicht von den Medien und Büchern vermittelt sein dürfte, oder für das schnelle Lernen der Schüler/ -innen 
+spricht. Der Politiktest umfasst ein breites Spektrum an Items zu den o. g. 
+Fachkonzepten, deren empirische Evidenz erstmals geprüft wurde. Hier 
+können notwendige Replikationsstudien ansetzen.
+In den beiden erhobenen Leistungsbereichen zeigen sich zudem Ergeb -
+nisse, wie sie bereits aus größeren Studien in anderen Domänen bekannt sind. Das Geschlecht hat in der vorliegenden Untersuchung auf der Indi -
+vidualebene keinen großen Effekt auf das Wissen über Politik. Mädchen 
+und Jungen haben im Durchschnitt annähernd den gleichen Wissensstand in der Domäne Politik. Das schwach signifikante, geringere Wissen bei 
+Mädchen in 2 von 4 Modellen ist nicht eindeutig interpretierbar. Im Prin -
+zip gilt das auch für den Einfluss der Klassenebene. Die Befundlage zum 
+Einfluss des Geschlechts ist auch in anderen Domänen nicht einheitlich. 
+Mal profitieren die Jungen mehr, mal die Mädchen. Man kann deshalb fra -
+gen, ob das Geschlecht überhaupt einen Einfluss auf den Wissensstand hat. 
+Ein Effekt kleiner oder großen Klassen auf den Wissensstand ist in dieser 
+Studie nicht interpretierbar gegeben. Diesen Befund zeigen auch Ergeb -
+nisse der PISA-Studien. Zumindest der Wissensstand scheint nicht unbe -
+dingt von der Klassengröße beeinflusst zu sein. Den Leistungsstand be -
+einflusst aber die Zusammensetzung der Klasse. Hier käme es darauf an, 
+unterschiedliche Leistungsstände in der Sprachfähigkeit auszugleichen. Auch ist eine hohe Zahl von Schüler/-innen mit Migrationshintergrund 
+nicht förderlich. Die zumindest teilweise vorhandenen Fördermöglichkei -
+ten der Schulen allein scheinen wenig zu bewirken.
+Die von Baumert & Schümer (2001) geäußerte Vermutung, dass sich 
+sprachliche Defizite kumulativ auf die Testleitung in Sachfächern auswir -
+ken, scheint sich für den Politikunterricht zu bestätigen. Zunächst tragen 
+geringere Sprachfähigkeiten zur Erklärung der Leistungsunterschiede bei. 
+Dies mag mit den linguistischen Merkmalen schulischer Kommunikation 
+in der Verkehrssprache Deutsch zusammenhängen. Eine gute oder gerin -
+gere Sprachfähigkeit in Deutsch hat einen entsprechenden Effekt. Dies gilt 
+aber in der vorliegenden Studie für Schüler/  -innen   mit und ohne Migra -
+
+42
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+tionshintergrund gleichermaßen. Textproduktion und –rezeption sind 
+wichtig für den Politikunterricht. Politik wird über Sprache kommuniziert 
+und erfordert ein entsprechendes Auffassungsvermögen. 
+Für Schüler/-innen nicht deutscher Herkunftssprache scheinen sich die -
+se Effekte unterschiedlich zu kumulieren. Insbesondere Schüler/-innen aus türkisch und italienisch sprechenden Familien erreichen schlechtere Test -
+leistungen. Für Schüler/-innen aus Familien mit einer osteuropäischen 
+Sprache gilt dies aber nicht. Dieser Befund findet sich auch in anderen 
+Studien. Allerdings kann die vorliegende Studie keine Aussagen dazu ma -
+chen, worin die besonderen Hürden für die Politikkompetenz bestehen. 
+Hier muss es bei dem Befund bleiben, da die POWIS-Studie nur einen 
+Messzeitpunkt hat. Denkbar wären die Bildungsbeteiligung der Eltern, 
+schulische Faktoren, kulturelle Einflüsse oder andere Einflüsse wie das Selbstkonzept, die Motivation, das Interesse an Politik usw. Hierzu sind 
+aber sehr viel umfangreichere Tests und/oder viel mehr Einzelstudien nö -
+tig. Die TEESAEC-Studie zum Wissen über die Europäische Union hat 
+den Einfluss der zu Hause gesprochenen Sprachen nicht bestätigt und wies lediglich bei einer türkischen Herkunft der Eltern einen negativen Effekt 
+aus. Allerdings zeigte sich kein Einfluss des Mi  grationshintergrunds mehr 
+auf den Wissenszuwachs im Bereich Europä  ische Union. Studien aus ande -
+ren Domänen wiederum stellten bei türkischem und italienischem Migra -
+tionshintergrund negative Effekte fest. In den PISA-Studien unterschieden 
+sich Schüler/-innen ohne und mit einem im Ausland geboren Elternteil nicht in der Leseleistung. Die zahlreichen, z. T. widersprüchlichen Einzel -
+befunde ergeben kein einheitliches Bild über die Zusammenhänge zwi -
+schen der Sprachfähigkeit und dem Kompetenzerwerb in unterschiedli -
+chen Domänen.
+Der Einfluss des kulturellen Kapitals des Elternhauses ist auch in der 
+vorliegenden Studie auf allen Ebenen sehr hoch. Die schulische Leistung wird vom Bildungsstand beeinflusst. Diesen Befund zeigen auch die gro -
+ßen Schulleistungsstudien. Es gelingt dem Politikunterricht möglicher -
+weise nicht, die Einflüsse von Elternhäusern mit weniger kulturellem Ka -
+pital auszugleichen, oder die Schüler/-innen profitieren mehr von den 
+Eltern als vom Politikunterricht. 
+Fazit: Die Ergebnisse der vorliegenden Studie deuten auf Handlungs -
+bedarf hin. Erfolgreiches Lernen im Politikunterricht hängt auch von den Rahmenbedingungen ab. Dies kann die Klassenzusammensetzung sein; es 
+gibt aber auch erhebliche Unterschiede zwischen den einzelnen Klassen. Es wurde kein Faktenwissen untersucht, sondern die Fachkompetenz im 
+Sinne einer politischen Grundbildung. Hier gibt es im Durchschnitt einen 
+
+43
+Politisches Wissen zur Demokratie von Schüler/-innen 
+positiven Befund, was die bei den Schüler/-innen vorhandene Politikkom -
+petenz angeht. Dies kann ein Hinweis dafür sein, dass es dem Politikunter -
+richt gelingt, die individuelle Wissensbasis zu beeinflussen. Auch wenn die 
+vorliegende Studie nur sehr wenige Hintergrundvariablen untersucht, so fällt doch auf, dass der Politikunterricht mehr an der Sprachfähigkeit (z. B. 
+durch schriftliche Aufgaben) arbeiten muss und das Augenmerk auf die Schüler/-innen mit türkischem oder italienischen Migrationshintergrund zu lenken hat. Hier können die Ergebnisse nicht befriedigen. Über die Ur -
+sachen können nur Vermutungen angestellt werden. Der Einfluss des Poli -
+tikunterrichts dürfte ein Faktor sein, wenn auch die Wirkrichtungen und Korrelationen mit anderen Variablen in Folgestudien zu klären sind. 
+Literatur
+aBoLD, r. & Juhá Sz, z. (2006). rückkehr in den Mainstream? einstellungswandel 
+der Jugend zu Demokratie und Parteiensystem. in e. roller, f. Brettschneider 
+& J. W. van Deth ( hrsg.), Jugend und Politik: »Voll normal!« Der Beitrag der politi ­
+schen Soziologie zur Jugendforschung  (S. 77 – 97). Wiesbaden: VS-Verlag.
+Bau MerT, J. & Schü Mer, G. (2001). f amiliäre Lebensverhältnisse, Bildungsbetei -
+ligung und k ompetenzerwerb im nationalen Vergleich. i n J. Baumert et al. 
+(hrsg.), P iSa 2000. Ein differenzierter Blick auf die Länder der Bundesrepublik 
+Deutschland (S. 323 – 407). o pladen: Leske u. Budrich.
+Bau MerT, J. & Maaz, k . (2006). Das theoretische und methodische k onzept von 
+PiSa zur e rfassung sozialer und kultureller r essourcen der h erkunfts -
+familie: i nternationale und nationale r ahmenkonzeption. i n J. Baumert, 
+  P. Stanat & r . Watermann ( hrsg.), Herkunftsbedingte Disparitäten im Bildungs ­
+wesen (S. 11 – 29). Wiesbaden: VS-Verlag.
+Bau MerT, J., S Tana T, P. & Wa TerMann, r . (2006). Schulstruktur und die e ntste -
+hung differenzieller Lern- und e ntwicklungsmilieus. i n Dies. ( hrsg.), Her ­
+kunftsbedingte Disparitäten im Bildungswesen (S. 95 – 188). Wiesbaden: VS- 
+Verlag.
+BLoSSfeLD, h.-P. e T aL (2009). Geschlechterdifferenzen im Bildungssystem – Die 
+Bundesländer im Vergleich. Verein der Bayerischen Wirtschaft e.  V. (hrsg.), 
+Daten und Fakten zum Jahresgutachten 2009 des Aktionsrats Bildung . Wiesbaden: 
+VS-Verlag. 
+
+44
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+Ber Ti, a. e. & a nDrio Lo, a . (2001). Third Graders’ u nderstanding of c ore Politi -
+cal c oncepts (Law, n ation-State, Government) Before and a fter  Teaching. 
+Genetic, Social, and General Psychology Monographs , (127), n o. 4, 346 – 377.
+Bon Sen, M., f reY, k. a. & Bo S, W. (2008). Soziale h erkunft. i n W. Bos,  M.  Bonsen,  
+J. Baumert, M. Prenzel, c . Selter & G. Walther ( hrsg.), Mathematische und 
+naturwissenschaftliche Kompetenzen von Grundschulkindern in Deutschland im in ­
+ternationalen Vergleich (S. 141 – 156). Münster: Waxmann.
+Bour Dieu, P. (1983). ö konomisches k apital, kulturelles k apital, soziales k api-
+tal. in r. kreckel ( hrsg.), Soziale Ungleichheiten (S. 183 – 198). Göttingen: 
+Schwartz.
+BYrne S, J. P. & Wa Sik, B. a . (1991). r ole of conceptual knowledge in mathematical 
+procedural learning. Developmental Psychology , 27 (5), 777 – 786.
+chareka, o . & Sear S, a. (2006). c ivic Duty: Young People’s c onceptions of 
+ Voting as a Means of Political Participation. Canadian Journal of Ecudation 29, 
+2, 512 – 540. 
+conne LL, r. W. (1971). The Child’s Construction of Politics . Melbourne: u niversi -
+ty Press. 
+DeLLi carPini, M. X. & k eeTer, S. (1996). What Americans Know About Politics and 
+Why It Matters . new h aven: Yale u niv. Press.
+Diefen Bach, h. (2007). Kinder und Jugendliche aus Migrantenfamilien im deutschen 
+ Bildungssystem . erklärungen und empirische Befunde. Wiesbaden: VS-Verlag.
+eaSTon, D. & Denni S, J. (1969). Children in the Political System. Origins of Political 
+ Legitimacy . new York et al.: McGraw- hill Book c ompany.
+eck, V. & WeiSSeno, G. (2009). Political knowledge of 14- to 15-year-old stu -
+dents – r esults of the T eeSaec intervention study in Germany. i n Dies. 
+(hrsg.), Teaching European Citizens. A quasi ­experimental study in six countries 
+(S. 19 – 30). Münster/ new York: Waxmann.
+ehMke, T. & Bau MerT, J. (2007). Soziale h erkunft und k ompetenzerwerb: Ver -
+gleiche zwischen P iSa 2000, 2003 und 2006. i n M. Prenzel, c . artelt, 
+J. Baumert, W. Blum, M. h ammann, e . klieme & r . Pekrun ( hrsg.), P iSa 
+2006. Die Ergebnisse der dritten internationalen Vergleichsstudie (S. 310 – 335). 
+Münster: Waxmann
+eSSer, h . (2006). Sprache und Integration. Die sozialen Bedingungen und Folgen des 
+Spracherwerbs von Migranten . frankfurt: c ampus.
+GaBrieL, o. W. (1997). Politische e instellungen und politisches Verhalten. i n 
+o. W. Gabriel & e . holtmann ( hrsg.), Handbuch politisches System der Bundes ­
+republik Deutschland (S. 381 – 498). München & Wien: o ldenbourg Verlag.
+GaBrieL, o. W., kunz, V., roSSTeuTScher, S.  & Van De Th, J. W. (2002). Sozialkapital und 
+Demokratie. Zivilgesellschaftliche Ressourcen im Vergleich . Wien: W uV univ.-Verl.
+
+45
+Politisches Wissen zur Demokratie von Schüler/-innen 
+GaLSTon, W. a . (2001). Political knowledge, political engagement, and civic edu -
+cation. Annual Review of Political Science , 4, 217 – 234.
+GeiSSe L, B. & Penro Se, V. (2003). Dynamiken der politischen Partizipation und 
+Partizipationsforschung – Politische Partizipation von f rauen und Männern. 
+Gender ­Politik ­online.de ur L: http://web.fu-berlin.de/gpo/geissel_penrose.
+htm (31.05.09)
+GiLLe, M. & k rüGer, W. (2002). Die Bedeutung des Politischen bei jungen Mi -
+gran ten und jungen Deutschen. i n M. Gille & W. k rüger ( hrsg.), Unzu ­
+friedene Demokraten. Politische Orientierungen der 16 – 29jährigen im vereinigten 
+Deutschland (S. 399 – 422). o pladen: Leske + Budrich.
+GLick, J. e . & h ohMann-Marrio TT, B. (2007). a cademic performance of young 
+children in immigrant families: the significance of race, ethnicity, and 
+natio nal origin. Internation Migration Review , Vol. 41, 371 – 402.
+GöTzMann, a . (2008). Politische k onzepte von Grundschüler/-innen zu ö f-
+fentlichkeit. i n G. Weißeno ( hrsg.), Politikkompetenz. Was Unterricht zu leis ­
+ten hat (S. 293 – 308). Wiesbaden: VS-Verlag.
+Gra MM eS, T. & Wicke, k . (1991). Schülerkonzepte – Leistungen und Grenzen 
+ eines Paradigmas in den sozialwissenschaftlichen f achdidaktiken. i n Dies. 
+(hrsg.), Die Gesellschaft aus der Schülerperspektive. Schwedische Beiträge zu einer 
+didaktischen Phänomenographie (S. 1 – 27). h amburg: k rämer.
+heLMke, a . & Weiner T, f. e. (1997). Bedingungsfaktoren schulischer Leistungen. 
+in f. e. Weinert ( ed.), Psychologie des Unterrichts und der Schule. Enzyklopädie 
+der Psychologie . Themenbereich D, Serie i , Bd. 3. Göttingen: h ogrefe.
+hoPf, D. (2005). z weisprachigkeit und Schulleistung bei Migrantenkindern. 
+Zeitschrift für Pädagogik , 2, 236 – 251.
+John Son, S.  (1996). The contribution of large-scale assessment programmes to re -
+search on gender differences. Educational Research and Evaluation. 2 (1), 25  – 49.
+köLLer, o . & Bau MerT, J. (2001). Leistungsgruppierungen in der Sekundarstu -
+fe i. ihre k onsequenzen für die Mathematikleistung und das mathemati -
+sche Selbstkonzept der Begabung. Zeitschrift für Pädagogische Psychologie , 15, 
+99 – 110.
+kroh, M.  (2006). Das politische i nteresse Jugendlicher: Stabilität oder Wan -
+del? i n e. roller, f . Brettschneider & J. W. van Deth ( hrsg.), Jugend und Po ­
+litik: »Voll normal!« Der Beitrag der politischen Soziologie zur Jugendforschung 
+(S. 185 – 208). Wiesbaden: VS-Verlag.
+kuLik, J. a ., kuLik, c . L. & Ban GerT-Dro WnS, r. L. (1985). The importance of o ut-
+come Studies: a reply to c lark. Journal of Educational Computing Research, 1, 
+381 – 387.
+
+46
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+LüDTke, o ., roBiTzSch, a ., Trau TWein, u . & k unTer, M.  (2009). a ssessing the im -
+pact of learning environments: h ow to use student ratings of classroom 
+or school characteristics in multilevel modeling. Contemporary Educational 
+ Psychology , 34, 120 – 131.
+Manze L, S. (2007). Kompetenzzuwachs im Politikunterricht: Ergebnisse einer Interventi ­
+onsstudie zum Kernkonzept Europa . Muenster: Waxmann.
+MaSSinG, P. & Scha TTS chnei Der, S. (2005). a ufgaben zu den Standards der Po -
+litischen Bildung. e rgebnisse einer Pilotstudie. i n GPJ e (hrsg.), Testaufga ­
+ben und Evaluationen in der politischen Bildung (S. 23 – 40). Schwalbach/Ts.: 
+ Wochenschau.
+McDe ViTT, M. & k iou SiS, S. (2006). Deliberative learning. a n evaluative approach 
+to interactive civic education. Communication Education , 55 (3), 247 – 264.
+Moore, S. W., Lare, J. & Wa Gner, k . a. (1985). The Child’s Political World. A Longitu ­
+dinal Perspective . new York et al.: Praeger Publishers. 
+oec D (2004). Messages from PISA 2000 . Paris: oec D Publishing.
+oeSTerreich, D.  (2002). Politische Bildung von 14 ­jährigen in Deutschland. Studien 
+aus dem Projekt Civic Education . opladen: Leske + Budrich.
+PeiSerT, h. (1967). Soziale Lage und Bildungschancen in Deutschland . München: 
+ Piper.
+PoPkin, S. L. & Di Mock, M. a . (1999). Political knowledge and citizen competence. 
+in S. k . elkin & k . e. Soltan ( eds.), Citizen competence and democratic institu ­
+tions (pp. 117 – 146). u niversity Park: Penn. State u niv. Press.
+Prenze L, M., c arSTenSen, c . h., Schö PS, k. & Mauri Scha T, c. (2006). Die a nlage 
+des Längsschnitts bei P iSa 2003. i n PiSa-konsortium Deutschland ( hrsg.), 
+PiSa 2003: Untersuchungen zur Kompetenzentwicklung im Verlauf eines Schuljah ­
+res (S. 29 – 62). Münster: Waxmann.
+PuTnaM, r. D. (1994). Making democracy work. Civic traditions in modern Italy . 
+Princeton n J: Princeton u niv. Press.
+PuTnaM, r. D. (2000). Bowling Alone. The collapse and revival of American communi ­
+ty. new York: Simon & Schuster.
+raMM , G., Prenze L, M., heiDeMeier, h. & Wa LTer, o. (2004). Soziokulturelle 
+herkunft: Migration. in M. Prenzel, J. Baumert, W. Blum, r.  Lehmann, 
+D. Leutner, M. neubrand, r. Pekrun, h.-G. rolff, J. rost & u.  Schiefele 
+(hrsg.).  PISA 2003. Der Bildungsstand der Jugendlichen in Deutschland – 
+ Ergebnisse des zweiten internationalen Vergleichs  (S. 254 – 272). Münster: 
+ Waxmann.
+reiTer, S. & Wo Lf, r. (2006). Maßnahmen zur politischen Bildung für Migranten und 
+Migrantinnen. Expertise für die Bundeszentrale für politische Bildung . Download: 
+www.efms.de (13.04.2007).
+
+47
+Politisches Wissen zur Demokratie von Schüler/-innen 
+richTer, D. (2009). Politisches Lernen mit und ohne c oncept Maps. Zeitschrift 
+für Grundschulforschung , 1, 91 – 103.
+riTTL e-John Son, B., Sie GLer, r . S. & aL iBaLi, M. W. (2001). Developing conceptu -
+al understanding and procedural skill in mathematics. a n iterative process. 
+Journal of Educational Psychology , 93, 346 – 362.
+röSSeL, J. & Becker T-zieGLSchMiD, c. (2002). Die r eproduktion kulturellen 
+ kapitals. Zeitschrift für Soziologie , 31, 497 – 513.
+roThe, k . (1993). Schüler und Politik. Eine vergleichende Untersuchung bayrischer und 
+hessischer Gymnasialschüler . opladen: Budrich.
+Schiefe Le, u . (1996). Motivation und Lernen mit Texten . Göttingen: h ogrefe.
+Schoen, h . (2006). Junge Wilde und alte Milde? Jugend und Wahlentscheidung 
+in Deutschland. i n e. roller, f . Brettschneider & J. W. van Deth ( hrsg.), 
+ Jugend und Politik: »Voll normal!« Der Beitrag der politischen Soziologie zur 
+J ugendforschung (S. 379 – 406). Wiesbaden: VS-Verlag.
+SniJDerS, T. a . B. & Bo Sker, r . J. (1999). Multilevel Analysis: An Introduction to Basic 
+and Advanced Multilevel Modeling . London etc.: Sage Publishers.
+STana T, P. & c hri STenSen G.  (2006). Schulerfolg von Jugendlichen mit Migrationshin ­
+tergrund im internationalen Vergleich. Eine Analyse von Voraussetzungen und Er ­
+trägen schulischen Lernens im Rahmen von PISA 2003 . Bonn, Berlin: Bundes -
+ministerium für Bildung und f orschung (BMB f).
+STana T, P. (2006). Schulleistungen von Jugendlichen mit Migrationshinter -
+grund: Die r olle der z usammensetzung der Schülerschaft. i n J. Baumert, P. 
+Stanat & r . Watermann ( hrsg.), Herkunftsbedingte Disparitäten im Bildungswe ­
+sen. Vertiefende Analysen im Rahmen von PISA 2000 (S. 189 – 219). Wies  baden: 
+VS-Verlag.
+STana T, P. & Ber Gann, S.  (2009). Geschlechtsbezogene Disparitäten in der Bil -
+dung. i n r. Tippelt & B. Schmidt ( hrsg.), Handbuch Bildungsforschung 
+(S. 513 – 527). Wiesbaden: VS-Verlag für Sozialwissenschaften.
+STana T, P. (2009). Schülerinnen und Schüler mit Migrationshintergrund. i n 
+S. Blömeke, T. Bohl, L. haag, G. Lang-Wojtasik & W. Sacher ( hrsg.), Hand ­
+buch Schule (S. 478 – 481). Bad h eilbrunn: k linkhardt/ uTB.
+STern, e . (2004). Schubladendenken, i ntelligenz und Lerntypen. z um u m-
+gang mit unterschiedlichen Lernvoraussetzungen. i n G. Becker ( hrsg.). 
+ Heterogenität: Unterschiede nützen – Gemeinsamkeiten stärken (S. 36 – 39). f ried-
+rich  Jahresheft 22. Seelze: f riedrich.
+Torne Y-Pur Ta, J., Leh Mann, r ., oSW aLD, h. & Schu Lz, W. (2001). Citizenship and 
+Education in Twenty ­eight Countries. Civic Knowledge and Engagement at Age 
+Fourteen . Delft: The i nternational a ssociation for the e valuation of e duca-
+tional a chievement ( iea).
+
+48
+Thomas Goll, Dagmar Richter, Georg Weißeno & Valentin Eck 
+uehLinGer, h .-M. (1988). Politische Partizipation in der Bundesrepublik . opladen: 
+Westdeutscher Verlag.
+VoSnia Dou, S. & Bre Wer, W. f . (1992). Mental models of the earth: a study of 
+conceptual change in childhood. Cognitive Psychology , 24, 535 – 585
+WaLTer, o . (2008). h erkunftsassoziierte Disparitäten im Lesen, der Mathema -
+tik und den n aturwissenschaften: ein Vergleich zwischen P iSa 2000, P iSa 
+2003 und P iSa 2006. Zeitschrift für Erziehungswissenschaft , Sonderheft 10, 
+149 – 167.
+WaLTer, o ., Senk BeiL, M., r oST, J., c arSTenSen, c . h. & Prenze L, M. (2006). Die e nt-
+wicklung der naturwissenschaftlichen k ompetenz von der neunten zur 
+zehnten k lassenstufe: Deskriptive Befunde. i n PiSa-konsortium Deutsch -
+land ( hrsg.), Pisa 2003. Untersuchungen zur Kompetenzentwicklung im Verlauf 
+eines Schuljahres (S. 87 – 118). Münster: Waxmann.
+WeiSSeno, G. (2005). Testaufgaben für die politische Bildung – e rgebnisse einer 
+Pilotstudie. i n GPJ e (hrsg.), Testaufgaben und Evaluationen in der politischen 
+Bildung (S. 41 – 60). Schwalbach/Ts.: Wochenschau.
+WeiSSeno, G., Gö TzMann, a . & e ck, V.  (2008). Parteien – empirische u ntersu -
+chungen eines f achkonzepts für den Politikunterricht. i n GPJ e (hrsg.), Di ­
+versity Studies und politische Bildung (S. 136 – 149). Schwalbach: Wochenschau-
+Verlag. 
+WeiSSeno, G., De TJen, J., Juch Ler, i ., Ma SSinG, P. & r ichTer, D.  (2010). Konzepte der 
+Politik – ein Kompetenzmodell . Bonn: Bundeszentrale für politische Bildung.
+WeSTLe, B. & Schoen, h . (2001). e in neues a rgument in einer alten Diskussion.  
+Politikverdrossenheit als u rsache des gender-gap im politischen i nteresse.  
+in f. Brettschneider, J. van Deth & e . roller ( hrsg.). Ende der politisierten 
+Sozial  struktur? (S. 215 – 244) o pladen: Leske & Budrich.
+WeSTLe, B. (2006). Politisches i nteresse, subjektive politische k ompetenz und 
+politisches Wissen – e ine f allstudie mit Jugendlichen im n ürnberger 
+raum. i n e. roller, f . Brettschneider & J. W. van Deth ( hrsg.), Jugend und 
+Politik: »Voll normal!« Der Beitrag der politischen Soziologie zur Jugendforschung 
+(S. 209 – 240). Wiesbaden: VS-Verlag.
+WiPPerMann, c . & fL aiG, B. B. (2009). Lebenswelten von Migrantinnen und Mi -
+granten. APuZ 5 (26.01.2009), 3 – 11.
+Wu, M. L., aD aMS, r. J., Wi LSon, M. r . & h aLDane, S. a . (2007). ACERConQuest Ver ­
+sion 2: Generalised item response modelling software . camberwell: a ustralian 
+council for e ducational r esearch.
+
+49Oliver Wilhelm, Gizem Hülür, Olaf Köller & Melanie Radalewski
+Empirische Grundlagen zum 
+ Einbürgerungstest
+1. Ausgangslage
+In vielen modernen Industrienationen ist das Recht zum Aufenthalt von 
+Personen anderer Nationalität sowie Modalitäten der Einbürgerung, teil -
+weise an den Nachweis staatsbürgerlichen Kenntnisse gekoppelt. Personen anderer Nationalität, die sich in solchen Staaten aufhalten oder dort ein -
+gebürgert werden möchten, müssen in der Regel ihre ökonomische Un -
+abhängigkeit – über nachgewiesenes Vermögen oder ein Beschäftigungs -
+verhältnis, das bestimmten Kriterien genügt – nachweisen. Darüber hinaus verlangen viele Staaten insbesondere bei der Einbürgerung den Nachweis 
+staatsbürgerlicher Kenntnisse. Zu diesen Kenntnissen zählen in der Regel 
+Wissen über die Geschichte, Politik und Kultur des aufnehmenden Landes. Verschiedentlich werden von den Bewerberinnen und Bewerbern um eine 
+Staatsbürgerschaft auch lebenspraktische Fertigkeiten, die im aufnehmen -
+den Land von Relevanz sind, verlangt. Hier möchten wir über einen Bau -
+stein der Prozedur berichten, die den Aufenthalt und die Einbürgerung 
+von Personen anderer Nationalität in Deutschland regeln soll. Wir wollen 
+im Folgenden die Entwicklung und Erprobung einer Testprozedur disku -
+tieren, die staatsbürgerliche Kenntnisse über die Bundesrepublik Deutsch -
+land und ihre Länder prüft.
+Eine an der Humboldt-Universität zu Berlin verortete Wissenschaft -
+lergruppe unter der Leitung von Olaf Köller und unter Mitwirkung von 
+ Rainer Lehmann und Oliver Wilhelm ist im Frühjahr 2007 vom Bundes -
+ministerium des Innern (BMI) beauftragt worden, eine Aufgabensamm -
+lung für den Orientierungskurstest (OKT) sowie den Einbürgerungstest 
+(EBT) zu entwickeln, zu erproben und zu normieren. Die Items dieser Aufgabensammlung waren in Paralleltests zu kompilieren. Die zu entwi -
+ckelnden Aufgaben sollten eindeutig lösbare Mehrfachwahlaufgaben mit vier Antwortalternativen und einer Richtigantwort sein. Im Juni 2008 lie -
+ferte die Gruppe 10 Paralleltests zu je 33 Fragen (3 davon jeweils länder -
+spezifisch) für den EBT. Im November 2008 wurden dann 10 Parallel -
+tests zu je 25 Items für den OKT bereitgestellt. Mit dem Projektabschluss
