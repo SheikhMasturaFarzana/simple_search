@@ -1,4 +1,4 @@
-
+**Note:** This demo was developed as part of an interview assignment. It meets all specified requirements. For more details, please refer to the attached PowerPoint slide. The entire implementation was completed in approximately four hours of programming time.
 ## Demo – End-to-End Document Search
 
 A lightweight pipeline that
